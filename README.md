@@ -24,3 +24,5 @@
 - Go
 - Redis
 - React
+
+https://github.com/sathwik0003/exploding_kittens/assets/97405473/1beecad2-a1c1-46d4-a9ca-056462a6643f
